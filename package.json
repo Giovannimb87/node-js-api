@@ -1,0 +1,22 @@
+{
+  "name": "js-api",
+  "version": "1.0.0",
+  "description": "a test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovannimb87/node-js-api.git"
+  },
+  "author": "Gio Brex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovannimb87/node-js-api/issues"
+  },
+  "homepage": "https://github.com/Giovannimb87/node-js-api#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
